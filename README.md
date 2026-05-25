@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,8,30&height=300&section=header&text=Frank%20Alexander&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🎮%20Gamer%20·%20Developer%20·%20Creator&descSize=18&descAlignY=55&descAlign=50" width="100%" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=8030F0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+Loading+developer+profile...;%3E+Welcome+to+my+world+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8030F0,50:10E0F0,100:50F060&height=200&section=header&text=Frank%20Alexander&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Gamer%20%20%C2%B7%20%20Developer%20%20%C2%B7%20%20Creator&descSize=16&descAlignY=52&descAlign=50&fontAlign=50" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8030F0&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Full+Stack+Developer+%F0%9F%92%BB;Gamer+%F0%9F%8E%AE;Building+RiftZone+%F0%9F%9A%80;Code+by+day%2C+game+by+night+%F0%9F%8C%99" alt="Typing SVG" />
 
 </div>
 
@@ -65,16 +67,6 @@ motto: "Code by day, game by night 🌙"
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankalexander-GM&bg_color=0D1117&color=8030F0&line=10E0F0&point=50F060&area=true&area_color=8030F0&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## 🐍 Contribuciones
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
 
