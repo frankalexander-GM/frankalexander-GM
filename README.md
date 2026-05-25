@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="./assets/dino_gamer.gif" alt="Dino Gamer" width="300" />
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8030F0&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Full+Stack+Developer+%F0%9F%92%BB;Gamer+%F0%9F%8E%AE;Building+RiftZone+%F0%9F%9A%80;Code+by+day%2C+game+by+night+%F0%9F%8C%99" alt="Typing SVG" />
 
 </div>
