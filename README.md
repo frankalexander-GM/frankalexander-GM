@@ -70,6 +70,26 @@ motto: "Code by day, game by night 🌙"
 
 ---
 
+## 🐍 Contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
+</div>
+
+---
+
+## 🏅 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=frankalexander-GM&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
+</div>
+
+---
+
 ## 🎮 Let's Connect
 
 <div align="center">
