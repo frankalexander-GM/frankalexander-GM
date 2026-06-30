@@ -1,76 +1,202 @@
 <div align="center">
 
-<!-- Pacman Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A2E&height=200&section=header&text=PACMAN&fontSize=60&fontColor=00D4FF&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- HEADER WAVING NEON -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A2E,100:00D4FF&height=220&section=header&text=FRANK%20ALEXANDER&fontSize=50&fontColor=00D4FF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<br>
+<br/>
 
-<!-- Pacman SVG - static, GitHub safe -->
-<svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="500" y2="0">
-      <stop offset="0%" stop-color="#0A0A2E"/>
-      <stop offset="100%" stop-color="#0A0A2E"/>
-    </linearGradient>
-  </defs>
-  <rect width="500" height="150" fill="url(#bg)" rx="15"/>
-  <!-- Dots -->
-  <circle cx="80" cy="75" r="5" fill="#00D4FF"/>
-  <circle cx="120" cy="75" r="5" fill="#00D4FF"/>
-  <circle cx="160" cy="75" r="5" fill="#00D4FF"/>
-  <circle cx="200" cy="75" r="5" fill="#00D4FF"/>
-  <circle cx="240" cy="75" r="5" fill="#00D4FF"/>
-  <circle cx="280" cy="75" r="5" fill="#00D4FF"/>
-  <circle cx="320" cy="75" r="5" fill="#00D4FF"/>
-  <circle cx="360" cy="75" r="5" fill="#00D4FF"/>
-  <circle cx="400" cy="75" r="5" fill="#00D4FF"/>
-  <!-- Big dot -->
-  <circle cx="440" cy="75" r="10" fill="#00D4FF" opacity="0.8"/>
+<!-- PACMAN SECTION -->
+<a href="https://github.com/frankalexander-GM">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=P+A+C+M+A+N" alt="PACMAN"/>
+</a>
+
+<br/>
+
+<svg width="520" height="160" viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="160" fill="#0A0A2E" rx="12"/>
+  
+  <!-- Maze walls -->
+  <rect x="10" y="10" width="500" height="5" fill="#00D4FF" opacity="0.3" rx="2"/>
+  <rect x="10" y="145" width="500" height="5" fill="#00D4FF" opacity="0.3" rx="2"/>
+  <rect x="10" y="10" width="5" height="140" fill="#00D4FF" opacity="0.3" rx="2"/>
+  <rect x="505" y="10" width="5" height="140" fill="#00D4FF" opacity="0.3" rx="2"/>
+  
+  <!-- Dots line -->
+  <circle cx="60" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="100" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="140" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="180" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="220" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="260" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="300" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="340" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="380" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  
+  <!-- Big power pellet -->
+  <circle cx="430" cy="80" r="12" fill="#00D4FF" opacity="0.9"/>
+  
   <!-- Pacman -->
-  <path d="M 52,75 L 52,45 A 30,30 0 1,1 52,105 Z" fill="#FFD700"/>
-  <circle cx="62" cy="60" r="4" fill="#111"/>
+  <path d="M 40,80 L 40,48 A 32,32 0 1,1 40,112 Z" fill="#FFD700"/>
+  <circle cx="50" cy="64" r="4" fill="#111"/>
+  
   <!-- Ghost -->
-  <path d="M 440,60 C 440,50 450,45 460,45 L 470,45 C 480,45 490,50 490,60 L 490,95 L 480,90 L 470,95 L 460,90 L 450,95 L 440,90 Z" fill="#FF4466"/>
-  <circle cx="455" cy="62" r="4" fill="white"/>
-  <circle cx="475" cy="62" r="4" fill="white"/>
-  <circle cx="457" cy="62" r="2" fill="#111"/>
-  <circle cx="477" cy="62" r="2" fill="#111"/>
+  <path d="M 440,64 C 440,54 452,48 465,48 L 478,48 C 491,48 503,54 503,64 L 503,112 L 491,106 L 478,112 L 465,106 L 452,112 L 440,106 Z" fill="#FF4466"/>
+  <circle cx="458" cy="66" r="5" fill="white"/>
+  <circle cx="483" cy="66" r="5" fill="white"/>
+  <circle cx="460" cy="66" r="2.5" fill="#111"/>
+  <circle cx="485" cy="66" r="2.5" fill="#111"/>
+  
+  <!-- Score text -->
+  <text x="260" y="135" fill="#00D4FF" font-family="monospace" font-size="12" text-anchor="middle" opacity="0.6">SCORE: 1337  HIGH: 9999</text>
 </svg>
 
-<br>
+<br/><br/>
 
-<!-- Title -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=70&lines=Hey!+Soy+Frank+Alexander+%F0%9F%91%8B;%F0%9F%87%A8%F0%9F%87%B4+Colombia;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%AE+Gamer+%26+Tech+Enthusiast;%F0%9F%9A%80+Building+RiftZone" alt="Typing SVG" />
-</h1>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%F0%9F%91%8B+Hey!+Soy+Frank+Alexander;%F0%9F%87%A8%F0%9F%87%B4+Colombiano+%7C+Desarrollador;%F0%9F%92%BB+Full+Stack+Developer+-+Java+%7C+Python+%7C+JS;%F0%9F%8E%AE+Gamer+%26+Tech+Enthusiast;%F0%9F%9A%80+Creando+RiftZone+-+Red+Social+Gamer" alt="Typing SVG" />
 
-<br>
+<br/>
 
-<!-- Skills -->
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,flask,bootstrap,tailwind,prisma,postgres,mysql,sqlite,git,docker,linux,eclipse,vscode&theme=dark&perline=10" />
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
 
-<br><br>
+<br/>
 
-<!-- Contact -->
-<a href="https://discord.gg/C23PcduvTp"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:riftzone.oficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/frankalexander-GM"><img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+<!-- ABOUT ME -->
+<h2>🧑‍💻 Sobre mí</h2>
 
-<br><br>
+<table align="center" style="border: none;">
+  <tr>
+    <td width="60%" style="border: none;">
+      <ul style="list-style: none; text-align: left;">
+        <li>🔭 Construyendo <b>RiftZone</b> — la red social definitiva para gamers</li>
+        <li>🌱 Aprendiendo <b>Next.js</b>, <b>TypeScript</b> y <b>Arquitectura MVC</b></li>
+        <li>👯 Buscando colaborar en proyectos <b>open source</b></li>
+        <li>💬 Pregúntame sobre <b>Java, Python, Flask, SQL</b></li>
+        <li>⚡ Dato curioso: <b>¡Pacman es el primer videojuego con cutscene!</b></li>
+      </ul>
+    </td>
+    <td width="40%" style="border: none;">
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b761132jk6xs2q3556y6y5oh3mq4ktmx0syo34690rz5h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="150" style="border-radius: 15px;"/>
+    </td>
+  </tr>
+</table>
 
-<!-- RiftZone -->
-<h2>🎮 RiftZone 🎮</h2>
-<p><i>The ultimate gaming social network</i></p>
-<p><code>Next.js · TypeScript · Tailwind · Prisma · Python · Flask</code></p>
+<br/>
 
-<br>
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankalexander-GM&bg_color=0A0A2E&color=00D4FF&line=0088FF&point=00D4FF&area=true&hide_border=true&radius=8" width="95%"/>
+<br/>
 
-<br><br>
+<!-- SKILLS -->
+<h2>🚀 Tech Stack</h2>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A2E,100:00D4FF&height=120&section=footer&text=Code%20by%20day%2C%20game%20by%20night%20%E2%98%80%EF%B8%8F&fontSize=18&fontColor=00D4FF" width="100%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,flask,bootstrap,tailwind,prisma,postgres,mysql,sqlite,git,docker,linux,eclipse,vscode,idea,github&theme=dark&perline=11" />
+</p>
+
+<br/>
+
+<!-- DATABASES -->
+<h2>🗄️ Bases de Datos</h2>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- CONTACT -->
+<h2>📫 Contacto</h2>
+<p>
+  <a href="https://discord.gg/C23PcduvTp"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:riftzone.oficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/frankalexander-GM"><img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+</p>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
+
+<br/>
+
+<!-- STATS -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frankalexander-GM&show_icons=true&theme=dark&bg_color=0A0A2E&border_color=00D4FF&icon_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalexander-GM&layout=compact&theme=dark&bg_color=0A0A2E&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&hide_border=true" height="180"/>
+</p>
+
+<br/>
+
+<!-- STREAK -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankalexander-GM&theme=dark&background=0A0A2E&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true" width="70%"/>
+</p>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankalexander-GM&bg_color=0A0A2E&color=00D4FF&line=0088FF&point=00D4FF&area=true&hide_border=true&radius=10&title_color=00D4FF&custom_title=Contributions%20Timeline" width="100%"/>
+
+<br/><br/>
+
+<!-- RIFTZONE SECTION -->
+<h2>🎮 RiftZone</h2>
+<p><i>"The ultimate gaming social network"</i></p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Frontend</b><br/>
+      Next.js · TypeScript · Tailwind
+    </td>
+    <td align="center">
+      <b>Backend</b><br/>
+      Flask · Python · Prisma
+    </td>
+    <td align="center">
+      <b>Base de Datos</b><br/>
+      PostgreSQL · SQLite
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://riftzone.online"><img src="https://img.shields.io/badge/Visitar-RiftZone-00D4FF?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+  <a href="https://github.com/frankalexander-GM/RiftZone"><img src="https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<h2>🐍 Contributions Snake</h2>
+<p><i>¡Mira cómo la serpiente se come mis contribuciones!</i></p>
+<img src="https://raw.githubusercontent.com/frankalexander-GM/frankalexander-GM/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/><br/>
+
+<!-- VISITOR COUNTER -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=frankalexander-GM&label=👀+Visitantes&color=00D4FF&style=flat" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/frankalexander-GM?label=Followers&style=social" alt="followers"/>
+</p>
+
+<br/>
+
+<!-- QUOTE -->
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+</p>
+
+<br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A2E&height=140&section=footer&text=%E2%98%80%EF%B8%8F+Code+by+day%2C+game+by+night+%F0%9F%8E%AE&fontSize=18&fontColor=FFFFFF" width="100%"/>
 
 </div>
