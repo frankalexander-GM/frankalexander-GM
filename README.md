@@ -176,23 +176,8 @@
 
 <!-- PINK PANTHER ANIMATION -->
 <h2>💗 Pink Panther</h2>
-<p><i>"The Pink Panther is watching your code..."</i></p>
-
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFmMXNsdDkycTlhY2o3Y3B3MXFhM3A4bHdlZ2JlYWhqczN1MnBmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif4Qc4pLx1PwO2Q/giphy.gif" width="280" height="auto" style="border-radius: 20px;"/>
-</p>
-
-<p align="center">
-  <pre style="color: #FF69B4; font-family: monospace; font-size: 14px;">
-    ╱▔▔╲    ╱▔▔╲
-   ╱    ╲  ╱    ╲
-  ╱      ╲╱      ╲
-  ▏      ▏▏      ▕
-  ╲      ╱╲      ╱
-   ╲    ╱  ╲    ╱
-    ╲▁▁╱    ╲▁▁╱
-  "That's cool, keep coding!"
-  </pre>
 </p>
 
 <br/><br/>
