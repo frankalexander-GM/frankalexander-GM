@@ -5,11 +5,6 @@
 
 <br/>
 
-<!-- PACMAN SECTION -->
-<a href="https://github.com/frankalexander-GM">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=P+A+C+M+A+N" alt="PACMAN"/>
-</a>
-
 <br/>
 
 <svg width="520" height="160" viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg">
@@ -46,8 +41,7 @@
   <circle cx="460" cy="66" r="2.5" fill="#111"/>
   <circle cx="485" cy="66" r="2.5" fill="#111"/>
   
-  <!-- Score text -->
-  <text x="260" y="135" fill="#00D4FF" font-family="monospace" font-size="12" text-anchor="middle" opacity="0.6">SCORE: 1337  HIGH: 9999</text>
+
 </svg>
 
 <br/><br/>
