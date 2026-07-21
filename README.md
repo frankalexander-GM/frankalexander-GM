@@ -1,41 +1,41 @@
 <div align="center">
 
 <!-- HEADER WAVING NEON -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A2E,100:00D4FF&height=220&section=header&text=FRANK%20ALEXANDER&fontSize=50&fontColor=00D4FF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12261E,100:2D5A27&height=220&section=header&text=FRANK%20ALEXANDER&fontSize=50&fontColor=98FB98&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <br/>
 
 <br/>
 
 <svg width="520" height="160" viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg">
-  <rect width="520" height="160" fill="#0A0A2E" rx="12"/>
+  <rect width="520" height="160" fill="#12261E" rx="12"/>
   
   <!-- Maze walls -->
-  <rect x="10" y="10" width="500" height="5" fill="#00D4FF" opacity="0.3" rx="2"/>
-  <rect x="10" y="145" width="500" height="5" fill="#00D4FF" opacity="0.3" rx="2"/>
-  <rect x="10" y="10" width="5" height="140" fill="#00D4FF" opacity="0.3" rx="2"/>
-  <rect x="505" y="10" width="5" height="140" fill="#00D4FF" opacity="0.3" rx="2"/>
+  <rect x="10" y="10" width="500" height="5" fill="#32CD32" opacity="0.4" rx="2"/>
+  <rect x="10" y="145" width="500" height="5" fill="#32CD32" opacity="0.4" rx="2"/>
+  <rect x="10" y="10" width="5" height="140" fill="#32CD32" opacity="0.4" rx="2"/>
+  <rect x="505" y="10" width="5" height="140" fill="#32CD32" opacity="0.4" rx="2"/>
   
   <!-- Dots line -->
-  <circle cx="60" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
-  <circle cx="100" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
-  <circle cx="140" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
-  <circle cx="180" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
-  <circle cx="220" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
-  <circle cx="260" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
-  <circle cx="300" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
-  <circle cx="340" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
-  <circle cx="380" cy="80" r="5" fill="#FFD700" opacity="0.9"/>
+  <circle cx="60" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
+  <circle cx="100" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
+  <circle cx="140" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
+  <circle cx="180" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
+  <circle cx="220" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
+  <circle cx="260" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
+  <circle cx="300" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
+  <circle cx="340" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
+  <circle cx="380" cy="80" r="5" fill="#FFB6C1" opacity="0.9"/>
   
   <!-- Big power pellet -->
-  <circle cx="430" cy="80" r="12" fill="#00D4FF" opacity="0.9"/>
+  <circle cx="430" cy="80" r="12" fill="#32CD32" opacity="0.9"/>
   
   <!-- Pacman -->
-  <path d="M 40,80 L 40,48 A 32,32 0 1,1 40,112 Z" fill="#FFD700"/>
+  <path d="M 40,80 L 40,48 A 32,32 0 1,1 40,112 Z" fill="#FFB6C1"/>
   <circle cx="50" cy="64" r="4" fill="#111"/>
   
   <!-- Ghost -->
-  <path d="M 440,64 C 440,54 452,48 465,48 L 478,48 C 491,48 503,54 503,64 L 503,112 L 491,106 L 478,112 L 465,106 L 452,112 L 440,106 Z" fill="#FF4466"/>
+  <path d="M 440,64 C 440,54 452,48 465,48 L 478,48 C 491,48 503,54 503,64 L 503,112 L 491,106 L 478,112 L 465,106 L 452,112 L 440,106 Z" fill="#8FBC8F"/>
   <circle cx="458" cy="66" r="5" fill="white"/>
   <circle cx="483" cy="66" r="5" fill="white"/>
   <circle cx="460" cy="66" r="2.5" fill="#111"/>
@@ -45,7 +45,7 @@
 <br/><br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%F0%9F%91%8B+Hey!+Soy+Frank+Alexander;%F0%9F%87%A8%F0%9F%87%B4+Colombiano+%7C+Desarrollador;%F0%9F%92%BB+Full+Stack+Developer+-+Java+%7C+Python+%7C+JS;%F0%9F%8E%AE+Gamer+%26+Tech+Enthusiast;%F0%9F%9A%80+Creando+RiftZone+-+Red+Social+Gamer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=98FB98&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%F0%9F%91%8B+Hey!+Soy+Frank+Alexander;%F0%9F%87%A8%F0%9F%87%B4+Colombiano+%7C+Desarrollador;%F0%9F%92%BB+Full+Stack+Developer+-+Java+%7C+Python+%7C+JS;%F0%9F%8E%AE+Gamer+%26+Tech+Enthusiast;%F0%9F%9A%80+Creando+RiftZone+-+Red+Social+Gamer" alt="Typing SVG" />
 
 <br/>
 
@@ -69,7 +69,7 @@
       </ul>
     </td>
     <td width="40%" style="border: none; text-align: center;">
-      <img src="http://googleusercontent.com/image_generation_content/369" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 15px #00D4FF;"/>
+      <img src="http://googleusercontent.com/image_generation_content/369" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 15px #32CD32;"/>
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@
 <p>
   <a href="https://discord.gg/C23PcduvTp"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:riftzone.oficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/frankalexander-GM"><img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://github.com/frankalexander-GM"><img src="https://img.shields.io/badge/GitHub-32CD32?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
 <br/>
@@ -120,21 +120,21 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frankalexander-GM&show_icons=true&theme=dark&bg_color=0A0A2E&border_color=00D4FF&icon_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalexander-GM&layout=compact&theme=dark&bg_color=0A0A2E&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=frankalexander-GM&show_icons=true&theme=dark&bg_color=12261E&border_color=32CD32&icon_color=32CD32&title_color=98FB98&text_color=FFFFFF&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalexander-GM&layout=compact&theme=dark&bg_color=12261E&border_color=32CD32&title_color=98FB98&text_color=FFFFFF&hide_border=true" height="180"/>
 </p>
 
 <br/>
 
 <!-- STREAK -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankalexander-GM&theme=dark&background=0A0A2E&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankalexander-GM&theme=dark&background=12261E&ring=32CD32&fire=32CD32&currStreakLabel=98FB98&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true" width="70%"/>
 </p>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankalexander-GM&bg_color=0A0A2E&color=00D4FF&line=0088FF&point=00D4FF&area=true&hide_border=true&radius=10&title_color=00D4FF&custom_title=Contributions%20Timeline" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankalexander-GM&bg_color=12261E&color=32CD32&line=2D5A27&point=32CD32&area=true&hide_border=true&radius=10&title_color=98FB98&custom_title=Contributions%20Timeline" width="100%"/>
 
 <br/><br/>
 
@@ -160,7 +160,7 @@
 </table>
 
 <p>
-  <a href="https://riftzone.online"><img src="https://img.shields.io/badge/Visitar-RiftZone-00D4FF?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+  <a href="https://riftzone.online"><img src="https://img.shields.io/badge/Visitar-RiftZone-32CD32?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
   <a href="https://github.com/frankalexander-GM/RiftZone"><img src="https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -173,7 +173,7 @@
 
 <!-- VISITOR COUNTER -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=frankalexander-GM&label=👀+Visitantes&color=00D4FF&style=flat" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=frankalexander-GM&label=👀+Visitantes&color=32CD32&style=flat" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/frankalexander-GM?label=Followers&style=social" alt="followers"/>
 </p>
 
@@ -187,6 +187,6 @@
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A2E&height=140&section=footer&text=%E2%98%80%EF%B8%8F+Code+by+day%2C+game+by+night+%F0%9F%8E%AE&fontSize=18&fontColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:12261E&height=140&section=footer&text=%E2%98%80%EF%B8%8F+Code+by+day%2C+game+by+night+%F0%9F%8E%AE&fontSize=18&fontColor=FFFFFF" width="100%"/>
 
 </div>
