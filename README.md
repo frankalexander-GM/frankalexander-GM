@@ -40,8 +40,6 @@
   <circle cx="483" cy="66" r="5" fill="white"/>
   <circle cx="460" cy="66" r="2.5" fill="#111"/>
   <circle cx="485" cy="66" r="2.5" fill="#111"/>
-  
-
 </svg>
 
 <br/><br/>
@@ -63,15 +61,15 @@
   <tr>
     <td width="60%" style="border: none;">
       <ul style="list-style: none; text-align: left;">
-        <li>🔭 Construyendo <b>RiftZone</b> — la red social definitiva para gamers</li>
-        <li>🌱 Aprendiendo <b>Next.js</b>, <b>TypeScript</b> y <b>Arquitectura MVC</b></li>
-        <li>👯 Buscando colaborar en proyectos <b>open source</b></li>
-        <li>💬 Pregúntame sobre <b>Java, Python, Flask, SQL</b></li>
+        <li>🔭 Construyendo <b>RiftZone</b> — con chat de traducción global y portafolio de juegos</li>
+        <li>🌱 Estudiante de <b>ADSO en el SENA</b>, aprendiendo <b>Next.js</b>, <b>TypeScript</b> y <b>Arquitectura MVC</b></li>
+        <li>🎮 Sobreviviendo en <b>Don't Starve Together</b> y <b>Ark</b>, y subiendo de rango en <b>Honor of Kings</b></li>
+        <li>💬 Pregúntame sobre <b>Java, Python, Flask y SQL</b></li>
         <li>⚡ Dato curioso: <b>¡Pacman es el primer videojuego con cutscene!</b></li>
       </ul>
     </td>
-    <td width="40%" style="border: none;">
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b761132jk6xs2q3556y6y5oh3mq4ktmx0syo34690rz5h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="150" style="border-radius: 15px;"/>
+    <td width="40%" style="border: none; text-align: center;">
+      <img src="http://googleusercontent.com/image_generation_content/369" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 15px #00D4FF;"/>
     </td>
   </tr>
 </table>
