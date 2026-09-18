@@ -6,7 +6,7 @@ class Calculadora:
 
     def sumar(self, a, b):
         resultado = a + b
-        self.historial.append(f"{a} + {b} = {resultado}")
+        self.historial.append(f"{a} + {3} = {resultado}")
         return resultado
 
     def restar(self, a, b):
