@@ -68,3 +68,4 @@ pytest tests/test_app.py -v
 - `GET /api/usuarios/<id>` -> obtener
 - `DELETE /api/usuarios/<id>` -> eliminar
 # prueba movimiento 
+# prueba movimiento 
