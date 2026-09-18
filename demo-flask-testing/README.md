@@ -67,3 +67,4 @@ pytest tests/test_app.py -v
 - `POST /api/usuarios` -> crear {"nombre", "email", "edad"}
 - `GET /api/usuarios/<id>` -> obtener
 - `DELETE /api/usuarios/<id>` -> eliminar
+# prueba movimiento 
