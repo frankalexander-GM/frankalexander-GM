@@ -8,7 +8,7 @@ Trabajo principalmente con **TypeScript, Next.js, Python y PostgreSQL**, y actua
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Análisis y Desarrollo de Software (ADSO) en el SENA**.
 
@@ -20,7 +20,7 @@ Actualmente estoy trabajando en proyectos propios relacionados con plataformas w
 
 ---
 
-## ⚙️ Stack
+## Stack
 
 ### Frontend
 
@@ -55,7 +55,7 @@ Actualmente estoy trabajando en proyectos propios relacionados con plataformas w
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### DevPlay
 
@@ -69,7 +69,7 @@ El proyecto explora publicación de juegos, perfiles de desarrolladores, descubr
 
 ---
 
-## 📈 Actividad
+## Actividad
 
 <div align="center">
 
@@ -79,7 +79,7 @@ El proyecto explora publicación de juegos, perfiles de desarrolladores, descubr
 
 ---
 
-## 🎯 Actualmente enfocado en
+## Actualmente enfocado en
 
 - Desarrollo Full Stack
 - Arquitectura de aplicaciones web
@@ -93,7 +93,7 @@ El proyecto explora publicación de juegos, perfiles de desarrolladores, descubr
 
 ---
 
-## 🌎 Objetivo profesional
+## Objetivo profesional
 
 Busco seguir creciendo como **Full Stack Developer**, participando en proyectos donde pueda trabajar con tecnologías modernas, resolver problemas reales y continuar desarrollando experiencia profesional.
 
@@ -101,10 +101,9 @@ Estoy especialmente interesado en oportunidades de desarrollo **remoto** y proye
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 **GitHub:** [Frank Alexander Aguilar Duarte](https://github.com/TU_USUARIO)
-
-**Ubicación:** Colombia
-
+**Correo:** frankalexander064@gmail.com
+**Ubicación:** Vélez-Santander-Colombia
 **Áreas de interés:** Full Stack Development · Web Development · Backend Development
