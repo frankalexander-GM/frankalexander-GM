@@ -57,18 +57,6 @@ Actualmente estoy trabajando en proyectos propios relacionados con plataformas w
 
 ## 🚀 Featured Projects
 
-### RiftZone
-
-Plataforma social enfocada en comunidades y creadores dentro del ecosistema gaming.
-
-El proyecto busca integrar perfiles, comunidades, contenido e interacción entre usuarios en una misma plataforma.
-
-**Tecnologías**
-
-`Next.js` · `TypeScript` · `Python` · `Flask` · `PostgreSQL` · `Tailwind CSS`
-
----
-
 ### DevPlay
 
 Plataforma orientada a desarrolladores de videojuegos para publicar, descubrir y compartir proyectos.
@@ -78,18 +66,6 @@ El proyecto explora publicación de juegos, perfiles de desarrolladores, descubr
 **Tecnologías**
 
 `Next.js` · `TypeScript` · `PostgreSQL` · `Tailwind CSS`
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
 
 ---
 
