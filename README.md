@@ -104,6 +104,9 @@ Estoy especialmente interesado en oportunidades de desarrollo **remoto** y proye
 ## Contacto
 
 **GitHub:** [Frank Alexander Aguilar Duarte](https://github.com/TU_USUARIO)
+
 **Correo:** frankalexander064@gmail.com
+
 **Ubicación:** Vélez-Santander-Colombia
+
 **Áreas de interés:** Full Stack Development · Web Development · Backend Development
