@@ -4,7 +4,7 @@
 
 Desarrollador de software en formación enfocado en crear aplicaciones web completas, desde la interfaz hasta el backend y la base de datos.
 
-Trabajo principalmente con **TypeScript, Next.js, Python y PostgreSQL**, y actualmente estoy fortaleciendo mis conocimientos en arquitectura Full Stack, APIs, bases de datos y despliegue.
+Trabajo principalmente con **TypeScript, React 19, Next.js, Python (FastAPI) y PostgreSQL**, y actualmente estoy fortaleciendo mis conocimientos en arquitectura Full Stack, APIs, bases de datos y despliegue.
 
 ---
 
@@ -16,7 +16,7 @@ Me gusta aprender construyendo proyectos reales. No me enfoco únicamente en esc
 
 **Frontend → API → Backend → Base de datos → Deployment**
 
-Actualmente estoy trabajando en proyectos propios relacionados con plataformas web, comunidades y productos digitales.
+Actualmente estoy trabajando en **DevPlay**, una plataforma para desarrolladores indie que ya tiene frontend web en React 19, app en Flutter y API en FastAPI.
 
 ---
 
@@ -25,14 +25,18 @@ Actualmente estoy trabajando en proyectos propios relacionados con plataformas w
 ### Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -59,13 +63,20 @@ Actualmente estoy trabajando en proyectos propios relacionados con plataformas w
 
 ### DevPlay
 
-Plataforma orientada a desarrolladores de videojuegos para publicar, descubrir y compartir proyectos.
+Plataforma para desarrolladores de videojuegos indie: publicar builds tempranas, descubrir proyectos y conectar con testers.
 
-El proyecto explora publicación de juegos, perfiles de desarrolladores, descubrimiento de contenido, interacción social y estadísticas.
+Empezó como una red social en Next.js y hoy es un ecosistema con API propia: frontend web en **React 19**, app en **Flutter** y backend en **FastAPI**.
 
 **Tecnologías**
 
-`Next.js` · `TypeScript` · `PostgreSQL` · `Tailwind CSS`
+`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `FastAPI` · `PostgreSQL`
+
+**Repositorios**
+
+- [Web · React 19](https://github.com/frankalexander-GM/react-dev)
+- [App · Flutter](https://github.com/frankalexander-GM/flutter-dev)
+- [API · FastAPI](https://github.com/reempalago34/fastapi_devplay-main)
+- [Versión original · Next.js](https://github.com/frankalexander-GM/devplay)
 
 ---
 
@@ -73,7 +84,7 @@ El proyecto explora publicación de juegos, perfiles de desarrolladores, descubr
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=frankalexander-GM&hide_border=true)
 
 </div>
 
@@ -82,8 +93,9 @@ El proyecto explora publicación de juegos, perfiles de desarrolladores, descubr
 ## Actualmente enfocado en
 
 - Desarrollo Full Stack
+- React 19, Vite y Tailwind CSS
 - Arquitectura de aplicaciones web
-- APIs y servicios backend
+- APIs y servicios backend (FastAPI)
 - PostgreSQL y modelado de datos
 - Autenticación y autorización
 - Docker y Linux
@@ -103,7 +115,7 @@ Estoy especialmente interesado en oportunidades de desarrollo **remoto** y proye
 
 ## Contacto
 
-**GitHub:** [Frank Alexander Aguilar Duarte](https://github.com/TU_USUARIO)
+**GitHub:** [Frank Alexander Aguilar Duarte](https://github.com/frankalexander-GM)
 
 **Correo:** frankalexander064@gmail.com
 
